@@ -1,0 +1,9 @@
+[0202/174726.818:ERROR:file_io.cc(134)] WriteFile: Diskte yeterli yer yok. (0x70)
+[0202/174726.818:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0202/174726.819:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\sumeyra\AppData\Local\Temp\scoped_dir9520_894265818\Crashpad\reports\14b1d6f6-f21e-4216-aae6-5ac1a8b307cb.dmp: Dosya baþka bir iþlem tarafýndan kullanýldýðýndan bu iþlem dosyaya eriþemiyor. (0x20)
+[0202/174817.496:ERROR:file_io.cc(134)] WriteFile: Diskte yeterli yer yok. (0x70)
+[0202/174817.497:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0202/174817.498:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\sumeyra\AppData\Local\Temp\scoped_dir2648_1799873593\Crashpad\reports\9a3c75c1-54a1-4e46-b155-566399d87dab.dmp: Dosya baþka bir iþlem tarafýndan kullanýldýðýndan bu iþlem dosyaya eriþemiyor. (0x20)
+[0202/174951.022:ERROR:file_io.cc(134)] WriteFile: Diskte yeterli yer yok. (0x70)
+[0202/174951.022:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0202/174951.023:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\sumeyra\AppData\Local\Temp\scoped_dir12532_1865294152\Crashpad\reports\96419c02-78e7-4e84-afc4-b82cb2c7d5a2.dmp: Dosya baþka bir iþlem tarafýndan kullanýldýðýndan bu iþlem dosyaya eriþemiyor. (0x20)
